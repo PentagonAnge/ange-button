@@ -78,7 +78,7 @@ h1 {
   color: #fff;
   border: 1px solid #000;
   background-color: #c83c35;
-  border-radius: 5px;
+  border-radius: 20px;
   text-align: center; }
   .button-play.disabled {
     cursor: not-allowed;
